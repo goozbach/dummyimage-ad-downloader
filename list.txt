@@ -1,0 +1,17 @@
+mediumrectangle
+squarepopup
+verticalrectangle
+largerectangle
+rectangle
+popunder
+fullbanner
+halfbanner
+microbar
+button1
+button2
+verticalbanner
+squarebutton
+leaderboard
+wideskyscraper
+skyscraper
+halfpage

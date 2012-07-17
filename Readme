@@ -1,0 +1,6 @@
+A downloader for all the ad sizes for the http://dummyimage.com/ website.
+
+Run loader.sh to download the images into output/
+
+Modify the BACKGROUND and FOREGROUND vars in the file to change the colors.
+

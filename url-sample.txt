@@ -1,0 +1,1 @@
+http://dummyimage.com/mediumrectangle/cccccc/fff.png&text=mediumrectangle
